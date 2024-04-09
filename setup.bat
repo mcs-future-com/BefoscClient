@@ -22,3 +22,4 @@ certutil.exe -p befosc -importpfx ROOT %current_path%BefoscClient.pfx
 certutil.exe -p befosc -importpfx TRUSTEDPUBLISHER %current_path%BefoscClient.pfx
 
 call %current_path%setup.exe
+
