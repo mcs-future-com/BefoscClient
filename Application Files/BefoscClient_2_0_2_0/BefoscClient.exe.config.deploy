@@ -21,12 +21,12 @@
   <userSettings>
     <BefoscClient.My.MySettings>
       <setting name="app_path" serializeAs="String">
-        <!--<value>https://app.befosc.com</value>-->
-        <value>http://localhost:8080</value>
+        <value>https://app.befosc.com</value>
+        <!--<value>http://localhost:8080</value>-->
       </setting>
       <setting name="api_path" serializeAs="String">
-        <!--<value>http://ap.befosc.com</value>-->
-        <value>http://localhost:3000</value>
+        <value>http://ap.befosc.com</value>
+        <!--<value>http://localhost:3000</value>-->
       </setting>
     </BefoscClient.My.MySettings>
   </userSettings>
